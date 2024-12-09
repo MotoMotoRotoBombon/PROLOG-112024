@@ -1,0 +1,1 @@
+Ejercicos que se realizaron a lo largo del semestre en la materia de prolog
